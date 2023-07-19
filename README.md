@@ -7,5 +7,5 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/penguin8331/count.svg)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=penguin8331&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=penguin8331&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penguin8331&theme=light&layout=compact)
